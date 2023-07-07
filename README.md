@@ -1,2 +1,6 @@
 # Issues
-Repository to track issues with ApexGate software.
+
+This repository is used to track issues in ApexGate purchased or licensed software.
+
+ - Lua Automation IDE
+ - SQLite Navigator
