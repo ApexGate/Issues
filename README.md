@@ -3,8 +3,10 @@
 This repository is used to track issues in ApexGate purchased or licensed software.
 
  - Lua Automation IDE
-     - [Bug Reports and Requests](https://github.com/ApexGate/Issues/issues)
-     - [Knowledge Base and Documentation](https://www.apexgate.net/kb/lua)
  - SQLite Navigator
-     - [Bug Reports and Requests](https://github.com/ApexGate/Issues/issues)
-     - [Knowledge Base and Documentation](https://www.apexgate.net/kb/sqlnav)
+ - MySQL to SQLite Wizard
+ - MP3 Merger
+ - Audio Extractor
+ - Clone Seeker
+ - Icon Converter
+ - Local Group Manager
