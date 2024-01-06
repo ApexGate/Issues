@@ -10,3 +10,6 @@ This repository is used to track issues in ApexGate purchased or licensed softwa
  - Clone Seeker
  - Icon Converter
  - Local Group Manager
+ - QR Code Wizard
+ - MySQL to SQLite Wizard
+ - File Lock Finder
