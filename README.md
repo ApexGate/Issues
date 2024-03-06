@@ -13,3 +13,4 @@ This repository is used to track issues in ApexGate purchased or licensed softwa
  - QR Code Wizard
  - MySQL to SQLite Wizard
  - File Lock Finder
+ - Base64 Encoding Wizard
